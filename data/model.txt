@@ -1,0 +1,40 @@
+1 , Crossroads Sport
+1 , Langster
+1 , P.3
+1 , Sirrus
+1 , Crosstrail Sport
+1 , Dolce
+1 , Allez Elite
+1 , Demo 8 I
+1 , Demo 8 II
+1 , Rockhopper 29
+2 , Crossroads 3.0 Step-Through
+2 , CruX Comp
+2 , Demo Expert
+2 , Demo Race
+2 , Demo Race Frame
+2 , Diverge Base Carbon
+2 , Diverge Expert Carbon
+2 , Epic Comp
+2 , Epic EVO
+2 , Epic EVO Pro
+3 , Crossroads 3.0 Step-Through
+3 , CruX Comp
+3 , Demo Expert
+3 , Demo Race
+3 , Demo Race Frame
+3 , Diverge Base Carbon
+3 , Diverge Expert Carbon
+3 , Epic Comp
+3 , Epic EVO
+3 , Epic EVO Pro
+4 , Crossroads 3.0 Step-Through
+4 , CruX Comp
+4 , Demo Expert
+4 , Demo Race
+4 , Demo Race Frame
+4 , Diverge Base Carbon
+4 , Diverge Expert Carbon
+4 , Epic Comp
+4 , Epic EVO
+4 , Epic EVO Pro
