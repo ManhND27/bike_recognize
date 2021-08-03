@@ -19,12 +19,14 @@ Specialized
 Trek
 Cannondale
 Giant
+"""
 Norco
 Scott
 Fuji
 VooDoo
 Jamis
 KHS
+"""
 ----------------------------------------------
 model phổ biến của brand: Specialized
 Crossroads Sport
@@ -51,5 +53,6 @@ Kids
 
 Lưu dât dưới dạng json dạng data như sau :
 type , brand , {model }
+365 , 7277, 13486
 
 
