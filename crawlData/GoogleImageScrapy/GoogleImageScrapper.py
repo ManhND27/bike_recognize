@@ -1,18 +1,21 @@
-#import selenium drivers
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
+from selenium.common.exceptions import NoSuchElementException       
 
 #import helper libraries
 import time
+import urllib.request
 import os
 import requests
 from PIL import Image
-
 #custom patch libraries
-import patch
+import patch 
 
 class GoogleImageScraper():
-    def __init__(self,webdriver_path,image_path, search_key="cat",number_of_images=1,headless=False,min_resolution=(0,0),max_resolution=(1920,1080)):
+    def __init__(self,webdriver_path,image_path, search_key,number_of_images,headless=False,min_resolution=(0,0),max_resolution=(1920,1080)):
         #check parameter types
         if (type(number_of_images)!=int):
             print("[Error] Number of images must be integer value.")
@@ -39,7 +42,7 @@ class GoogleImageScraper():
                     is_patched = patch.download_lastest_chromedriver()
                 else:
                     is_patched = patch.download_lastest_chromedriver(driver.capabilities['version'])
-                if (not is_patched):
+                if (not is_patched): 
                     print("[WARN] Please update the chromedriver.exe in the webdriver folder according to your chrome version:https://chromedriver.chromium.org/downloads")
                     break
         self.driver = driver
@@ -53,39 +56,43 @@ class GoogleImageScraper():
         self.max_resolution = max_resolution
         self.saved_extension = "jpg"
         self.valid_extensions = ["jpg","png","jpeg"]
-
+        
     def find_image_urls(self):
         """
             This function search and return a list of image urls based on the search key.
             Example:
                 google_image_scraper = GoogleImageScraper("webdriver_path","image_path","search_key",number_of_photos)
                 image_urls = google_image_scraper.find_image_urls()
-
+                
         """
+        self.driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
         print("[INFO] Scraping for image link... Please wait.")
         image_urls=[]
         count = 0
         missed_count = 0
         self.driver.get(self.url)
-        time.sleep(5)
+        time.sleep(0)
         for indx in range (1,self.number_of_images+1):
             try:
                 #find and click image
                 imgurl = self.driver.find_element_by_xpath('//*[@id="islrg"]/div[1]/div[%s]/a[1]/div[1]/img'%(str(indx)))
                 imgurl.click()
+                # for indx_i in range(1, 10):
+                #     imgurl_in = self.driver.find_element_by_xpath('//*[@id="Sva75c"]/div/div/div[3]/div[2]/c-wiz/div/div[1]/div[3]/div[3]/c-wiz/div/div/div/div[3]/div[2]/div[%s]/a[1]/div[1]/img'%(str(indx_i)))
+                #     imgurl_in.click()
                 missed_count = 0
             except Exception:
                 #print("[-] Unable to click this photo.")
                 missed_count = missed_count + 1
-                if (missed_count>10):
+                if (missed_count>30):
                     print("[INFO] No more photos.")
                     break
                 else:
                     continue
-
+                 
             try:
                 #select image from the popup
-                time.sleep(1)
+                time.sleep(0)
                 class_names = ["n3VNCb"]
                 images = [self.driver.find_elements_by_class_name(class_name) for class_name in class_names if len(self.driver.find_elements_by_class_name(class_name)) != 0 ][0]
                 for image in images:
@@ -96,20 +103,20 @@ class GoogleImageScraper():
                         count +=1
                         break
             except Exception:
-                print("[INFO] Unable to get link")
-
+                print("[INFO] Unable to get link")   
+                
             try:
-                #scroll page to load next image
+                # scroll page to load next image
                 if(count%3==0):
                     self.driver.execute_script("window.scrollTo(0, "+str(indx*60)+");")
                 element = self.driver.find_element_by_class_name("mye4qd")
+                if element:
+                    element.execute_script("document.querySelector('.mye4qd').click();")
                 element.click()
                 print("[INFO] Loading more photos")
-                time.sleep(5)
-            except Exception:
-                time.sleep(1)
-
-
+                #time.sleep(1)
+            except Exception:  
+                time.sleep(0)
         self.driver.quit()
         print("[INFO] Google search ended")
         return image_urls
@@ -122,7 +129,7 @@ class GoogleImageScraper():
                 google_image_scraper = GoogleImageScraper("webdriver_path","image_path","search_key",number_of_photos)
                 image_urls=["https://example_1.jpg","https://example_2.jpg"]
                 google_image_scraper.save_images(image_urls)
-
+                
         """
         print("[INFO] Saving Image... Please wait...")
         for indx,image_url in enumerate(image_urls):

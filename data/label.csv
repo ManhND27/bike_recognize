@@ -1,0 +1,442 @@
+id,brand,model,type,year
+1,Specialized,Crossroads Sport,URBAN & FITNESS,2019
+2,Specialized,Crossroads Sport,Hybrid,2018
+3,Specialized,Crossroads Sport,Hybrid,2017
+4,Specialized,Crossroads Sport,Hybrid,2016
+5,Specialized,Crossroads Sport,Hybrid,2015
+6,Specialized,Crossroads Sport,Hybrid,2014
+7,Specialized,Crossroads Sport,Hybrid,2013
+8,Specialized,Crossroads Sport,Hybrid,2012
+9,Specialized,Crossroads Sport,Hybrid,2006
+10,Specialized,Crossroads Sport,Hybrid,2005
+11,Specialized,Crossroads Sport,Hybrid,2004
+12,Specialized,Crossroads Sport,Hybrid,2003
+13,Specialized,Crossroads Sport,Hybrid,1995
+14,Specialized,Crossroads Sport,Hybrid,1994
+15,Specialized,Crossroads Sport,Hybrid,1993
+16,Specialized,P.3,Mountain,2021
+17,Specialized,P.3,Mountain,2019
+18,Specialized,P.3,Mountain,2018
+19,Specialized,P.3,Mountain,2017
+20,Specialized,P.3,Mountain,2016
+21,Specialized,P.3,Mountain,2015
+22,Specialized,P.3,Mountain,2014
+23,Specialized,P.3,Mountain,2013
+24,Specialized,P.3,Mountain,2010
+25,Specialized,P.3,Mountain,2009
+26,Specialized,P.3,Mountain,2008
+27,Specialized,P.3,Mountain,2000
+28,Specialized,Langster,URBAN & FITNESS,2018
+29,Specialized,Langster,Hybrid,2017
+30,Specialized,Langster,Road,2016
+31,Specialized,Langster,Road,2015
+32,Specialized,Langster,Road,2014
+33,Specialized,Langster,Track / Fixie / Singlespeed,2013
+34,Specialized,Langster,Track / Fixie / Singlespeed,2012
+35,Specialized,Langster,Track / Fixie / Singlespeed,2011
+36,Specialized,Langster,Track / Fixie / Singlespeed,2010
+37,Specialized,Langster,Track / Fixie / Singlespeed,2009
+38,Specialized,Langster,Track / Fixie / Singlespeed,2008
+39,Specialized,Langster,Track / Fixie / Singlespeed,2007
+40,Specialized,Sirrus,Hybrid,2018
+41,Specialized,Sirrus,Hybrid,2017
+42,Specialized,Sirrus,Hybrid,2016
+43,Specialized,Sirrus,Hybrid,2015
+44,Specialized,Sirrus,Hybrid,2014
+45,Specialized,Sirrus,Hybrid,2013
+46,Specialized,Sirrus,Hybrid,2012
+47,Specialized,Sirrus,Hybrid,2011
+48,Specialized,Sirrus,Hybrid,2010
+49,Specialized,Sirrus,Hybrid,2009
+50,Specialized,Sirrus,Hybrid,2003
+51,Specialized,Sirrus,Hybrid,1997
+52,Specialized,Allez Elite,Road,2021
+53,Specialized,Allez Elite,Road,2020
+54,Specialized,Allez Elite,Road,2019
+55,Specialized,Allez Elite,Road,2018
+56,Specialized,Allez Elite,Road,2015
+57,Specialized,Allez Elite,Road,2014
+58,Specialized,Allez Elite,Road,2011
+59,Specialized,Allez Elite,Road,2010
+60,Specialized,Allez Elite,Road,2009
+61,Specialized,Allez Elite,Road,2008
+62,Specialized,Crosstrail Sport,Hybrid,2019
+63,Specialized,Crosstrail Sport,URBAN & FITNESS,2019
+64,Specialized,Crosstrail Sport,Hybrid,2018
+65,Specialized,Crosstrail Sport,Hybrid,2017
+66,Specialized,Crosstrail Sport,Hybrid,2013
+67,Specialized,Crosstrail Sport,Hybrid,2012
+68,Specialized,Crosstrail Sport,Hybrid,2011
+69,Specialized,Crosstrail Sport,Hybrid,2010
+70,Specialized,Crosstrail Sport,Hybrid,2009
+71,Specialized,Crosstrail Sport,Hybrid,2008
+72,Specialized,Demo 8 I,Mountain,2017
+73,Specialized,Demo 8 I,Mountain,2016
+74,Specialized,Demo 8 I,Mountain,2015
+75,Specialized,Demo 8 I,Mountain,2014
+76,Specialized,Demo 8 I,Mountain,2013
+77,Specialized,Demo 8 I,Mountain,2012
+78,Specialized,Demo 8 I,Mountain,2011
+79,Specialized,Demo 8 I,Mountain,2010
+80,Specialized,Demo 8 I,Mountain,2009
+81,Specialized,Demo 8 I,Mountain,2006
+82,Specialized,Crossroads Elite,Hybrid,2017
+83,Specialized,Crossroads Elite,Hybrid,2016
+84,Specialized,Crossroads Elite,Hybrid,2015
+85,Specialized,Crossroads Elite,Hybrid,2014
+86,Specialized,Crossroads Elite,Hybrid,2013
+87,Specialized,Crossroads Elite,Hybrid,2012
+88,Specialized,Crossroads Elite,Hybrid,2011
+89,Specialized,Crossroads Elite,Hybrid,2006
+90,Specialized,Crossroads Elite,Hybrid,1996
+91,Specialized,Crossroads,URBAN & FITNESS,2019
+92,Specialized,Crossroads,Hybrid,2018
+93,Specialized,Crossroads,Hybrid,2016
+94,Specialized,Crossroads,Hybrid,2015
+95,Specialized,Crossroads,Hybrid,2014
+96,Specialized,Crossroads,Hybrid,2003
+97,Specialized,Crossroads,Hybrid,1997
+98,Specialized,Crossroads,Hybrid,1996
+99,Specialized,Crossroads,Hybrid,1993
+100,Specialized,Stumpjumper FSR Comp 29er,Mountain,2017
+101,Specialized,Stumpjumper FSR Comp 29er,Mountain,2016
+102,Specialized,Stumpjumper FSR Comp 29er,Mountain,2015
+103,Specialized,Stumpjumper FSR Comp 29er,Mountain,2014
+104,Specialized,Stumpjumper FSR Comp 29er,Mountain,2013
+105,Specialized,Stumpjumper FSR Comp 29er,Mountain,2012
+106,Specialized,Stumpjumper FSR Comp 29er,Mountain,2011
+107,Specialized,Stumpjumper FSR Comp 29er,Mountain,2010
+108,Specialized,Stumpjumper FSR Comp 29er,Mountain,2009
+109,Trek,520,Road,2020
+110,Trek,520,Road,2019
+111,Trek,520,Road,2016
+112,Trek,520,Road,2015
+113,Trek,520,Road,2014
+114,Trek,520,Road,2013
+115,Trek,520,Road,2012
+116,Trek,520,Road,2011
+117,Trek,520,Road,2010
+118,Trek,520,Road,2009
+119,Trek,520,Road,2008
+120,Trek,520,Road,2007
+121,Trek,520,Road,2002
+122,Trek,520,Road,1995
+123,Trek,520,Road,1994
+124,Trek,520,Road,1993
+125,Trek,820,Mountain,2020
+126,Trek,820,Mountain,2019
+127,Trek,820,Mountain,2018
+128,Trek,820,Mountain,2017
+129,Trek,820,Mountain,2016
+130,Trek,820,Mountain,2015
+131,Trek,820,Mountain,2014
+132,Trek,820,Mountain,2013
+133,Trek,820,Mountain,2009
+134,Trek,820,Mountain,2003
+135,Trek,820,Mountain,2000
+136,Trek,820,Mountain,1999
+137,Trek,820,Mountain,1998
+138,Trek,820,Mountain,1997
+139,Trek,820,Mountain,1994
+140,Trek,820,Mountain,1993
+141,Trek,1.2,Road,2017
+142,Trek,1.2,Road,2016
+143,Trek,1.2,Road,2015
+144,Trek,1.2,Road,2014
+145,Trek,1.2,Road,2013
+146,Trek,1.2,Road,2012
+147,Trek,1.2,Road,2011
+148,Trek,1.2,Road,2010
+149,Trek,1.2,Road,2009
+150,Trek,1.2,Road,2008
+151,Trek,7.5 FX,Hybrid,2016
+152,Trek,7.5 FX,Hybrid,2015
+153,Trek,7.5 FX,Hybrid,2014
+154,Trek,7.5 FX,Hybrid,2013
+155,Trek,7.5 FX,Hybrid,2012
+156,Trek,7.5 FX,Hybrid,2011
+157,Trek,7.5 FX,Hybrid,2010
+158,Trek,7.5 FX,Hybrid,2009
+159,Trek,7.5 FX,Hybrid,2008
+160,Trek,7.5 FX,Hybrid,2007
+161,Trek,Remedy 8,Mountain,2021
+162,Trek,Remedy 8,Mountain,2020
+163,Trek,Remedy 8,Mountain,2019
+164,Trek,Remedy 8,Mountain,2017
+165,Trek,Remedy 8,Mountain,2013
+166,Trek,Remedy 8,Mountain,2012
+167,Trek,Remedy 8,Mountain,2011
+168,Trek,Remedy 8,Mountain,2010
+169,Trek,Remedy 8,Mountain,2009
+170,Trek,Remedy 8,Mountain,2008
+171,Trek,Fuel EX 8,Mountain,2020
+172,Trek,Fuel EX 8,Mountain,2014
+173,Trek,Fuel EX 8,Mountain,2013
+174,Trek,Fuel EX 8,Mountain,2012
+175,Trek,Fuel EX 8,Mountain,2011
+176,Trek,Fuel EX 8,Mountain,2010
+177,Trek,Fuel EX 8,Mountain,2009
+178,Trek,Fuel EX 8,Mountain,2006
+179,Trek,Fuel EX 8,Mountain,2005
+180,Trek,Remedy 7,Mountain,2020
+181,Trek,Remedy 7,Mountain,2019
+182,Trek,Remedy 7,Mountain,2017
+183,Trek,Remedy 7,Mountain,2013
+184,Trek,Remedy 7,Mountain,2012
+185,Trek,Remedy 7,Mountain,2011
+186,Trek,Remedy 7,Mountain,2010
+187,Trek,Remedy 7,Mountain,2009
+188,Trek,Remedy 7,Mountain,2008
+189,Trek,7.3 FX,Hybrid,2015
+190,Trek,7.3 FX,Hybrid,2014
+191,Trek,7.3 FX,Hybrid,2013
+192,Trek,7.3 FX,Hybrid,2012
+193,Trek,7.3 FX,Hybrid,2011
+194,Trek,7.3 FX,Hybrid,2010
+195,Trek,7.3 FX,Hybrid,2009
+196,Trek,7.3 FX,Hybrid,2006
+197,Trek,Madone 5.2,Road,2014
+198,Trek,Madone 5.2,Road,2013
+199,Trek,Madone 5.2,Road,2012
+200,Trek,Madone 5.2,Road,2011
+201,Trek,Madone 5.2,Road,2010
+202,Trek,Madone 5.2,Road,2009
+203,Trek,Madone 5.2,Road,2008
+204,Trek,Madone 5.2,Road,2005
+205,Trek,Fuel EX 7,Mountain,2021
+206,Trek,Fuel EX 7,Mountain,2013
+207,Trek,Fuel EX 7,Mountain,2012
+208,Trek,Fuel EX 7,Mountain,2011
+209,Trek,Fuel EX 7,Mountain,2010
+210,Trek,Fuel EX 7,Mountain,2009
+211,Trek,Fuel EX 7,Mountain,2006
+212,Trek,Fuel EX 7,Mountain,2005
+213,Cannondale,Adventure 2,Hybrid,2021
+214,Cannondale,Adventure 2,URBAN & FITNESS,2021
+215,Cannondale,Adventure 2,URBAN & FITNESS,2019
+216,Cannondale,Adventure 2,URBAN & FITNESS,2018
+217,Cannondale,Adventure 2,Hybrid,2017
+218,Cannondale,Adventure 2,Hybrid,2016
+219,Cannondale,Adventure 2,Hybrid,2015
+220,Cannondale,Adventure 2,Hybrid,2014
+221,Cannondale,Adventure 2,Hybrid,2013
+222,Cannondale,Adventure 2,Hybrid,2012
+223,Cannondale,Adventure 2,Hybrid,2011
+224,Cannondale,Adventure 2,Hybrid,2010
+225,Cannondale,Adventure 2,Hybrid,2009
+226,Cannondale,Adventure 2,Hybrid,2008
+227,Cannondale,Quick 4,Hybrid,2021
+228,Cannondale,Quick 4,URBAN & FITNESS,2021
+229,Cannondale,Quick 4,URBAN & FITNESS,2019
+230,Cannondale,Quick 4,URBAN & FITNESS,2018
+231,Cannondale,Quick 4,Hybrid,2017
+232,Cannondale,Quick 4,Hybrid,2016
+233,Cannondale,Quick 4,Hybrid,2015
+234,Cannondale,Quick 4,Hybrid,2014
+235,Cannondale,Quick 4,Road,2013
+236,Cannondale,Quick 4,Road,2012
+237,Cannondale,Quick 4,Road,2011
+238,Cannondale,Quick 4,Hybrid,2010
+239,Cannondale,Quick 4,Road,2009
+240,Cannondale,Adventure 1,Hybrid,2021
+241,Cannondale,Adventure 1,URBAN & FITNESS,2021
+242,Cannondale,Adventure 1,URBAN & FITNESS,2019
+243,Cannondale,Adventure 1,URBAN & FITNESS,2018
+244,Cannondale,Adventure 1,Hybrid,2017
+245,Cannondale,Adventure 1,Hybrid,2016
+246,Cannondale,Adventure 1,Hybrid,2015
+247,Cannondale,Adventure 1,Hybrid,2014
+248,Cannondale,Adventure 1,Hybrid,2013
+249,Cannondale,Adventure 1,Hybrid,2011
+250,Cannondale,Adventure 1,Hybrid,2008
+251,Cannondale,Quick CX 4,URBAN & FITNESS,2021
+252,Cannondale,Quick CX 4,URBAN & FITNESS,2020
+253,Cannondale,Quick CX 4,URBAN & FITNESS,2019
+254,Cannondale,Quick CX 4,URBAN & FITNESS,2018
+255,Cannondale,Quick CX 4,Hybrid,2017
+256,Cannondale,Quick CX 4,Hybrid,2016
+257,Cannondale,Quick CX 4,Hybrid,2015
+258,Cannondale,Quick CX 4,Hybrid,2014
+259,Cannondale,Quick CX 4,Hybrid,2013
+260,Cannondale,Quick CX 4,Hybrid,2012
+261,Cannondale,Quick CX 4,Hybrid,2011
+262,Cannondale,Quick CX 2,URBAN & FITNESS,2021
+263,Cannondale,Quick CX 2,URBAN & FITNESS,2020
+264,Cannondale,Quick CX 2,URBAN & FITNESS,2019
+265,Cannondale,Quick CX 2,URBAN & FITNESS,2018
+266,Cannondale,Quick CX 2,Hybrid,2017
+267,Cannondale,Quick CX 2,Hybrid,2016
+268,Cannondale,Quick CX 2,Hybrid,2015
+269,Cannondale,Quick CX 2,Hybrid,2014
+270,Cannondale,Quick CX 2,Hybrid,2013
+271,Cannondale,Quick CX 2,Hybrid,2012
+272,Cannondale,Quick CX 2,Hybrid,2011
+273,Cannondale,Quick CX 3,URBAN & FITNESS,2021
+274,Cannondale,Quick CX 3,URBAN & FITNESS,2020
+275,Cannondale,Quick CX 3,URBAN & FITNESS,2019
+276,Cannondale,Quick CX 3,URBAN & FITNESS,2018
+277,Cannondale,Quick CX 3,Hybrid,2017
+278,Cannondale,Quick CX 3,Hybrid,2016
+279,Cannondale,Quick CX 3,Hybrid,2015
+280,Cannondale,Quick CX 3,Hybrid,2014
+281,Cannondale,Quick CX 3,Hybrid,2013
+282,Cannondale,Quick CX 3,Hybrid,2012
+283,Cannondale,Quick CX 3,Hybrid,2011
+284,Cannondale,Quick CX 1,URBAN & FITNESS,2021
+285,Cannondale,Quick CX 1,URBAN & FITNESS,2020
+286,Cannondale,Quick CX 1,URBAN & FITNESS,2019
+287,Cannondale,Quick CX 1,Hybrid,2018
+288,Cannondale,Quick CX 1,Hybrid,2016
+289,Cannondale,Quick CX 1,Hybrid,2015
+290,Cannondale,Quick CX 1,Hybrid,2014
+291,Cannondale,Quick CX 1,Hybrid,2013
+292,Cannondale,Quick CX 1,Hybrid,2012
+293,Cannondale,Quick CX 1,Hybrid,2011
+294,Cannondale,Quick 4 Women's,Hybrid,2019
+295,Cannondale,Quick 4 Women's,Hybrid,2018
+296,Cannondale,Quick 4 Women's,URBAN & FITNESS,2018
+297,Cannondale,Quick 4 Women's,Hybrid,2017
+298,Cannondale,Quick 4 Women's,Hybrid,2016
+299,Cannondale,Quick 4 Women's,Hybrid,2015
+300,Cannondale,Quick 4 Women's,Hybrid,2014
+301,Cannondale,Quick 4 Women's,Hybrid,2013
+302,Cannondale,Quick 4 Women's,Hybrid,2012
+303,Cannondale,Quick 4 Women's,Hybrid,2011
+304,Cannondale,Trail 6,Mountain,2021
+305,Cannondale,Trail 6,Mountain,2020
+306,Cannondale,Trail 6,Mountain,2019
+307,Cannondale,Trail 6,Mountain,2018
+308,Cannondale,Trail 6,Mountain,2015
+309,Cannondale,Trail 6,Mountain,2014
+310,Cannondale,Trail 6,Mountain,2013
+311,Cannondale,Trail 6,Mountain,2012
+312,Cannondale,Trail 6,Mountain,2011
+313,Cannondale,Adventure 2 Women's,Hybrid,2019
+314,Cannondale,Adventure 2 Women's,Hybrid,2018
+315,Cannondale,Adventure 2 Women's,Hybrid,2017
+316,Cannondale,Adventure 2 Women's,Hybrid,2016
+317,Cannondale,Adventure 2 Women's,Hybrid,2015
+318,Cannondale,Adventure 2 Women's,Hybrid,2014
+319,Cannondale,Adventure 2 Women's,Hybrid,2013
+320,Cannondale,Adventure 2 Women's,Hybrid,2012
+321,Cannondale,Adventure 2 Women's,Hybrid,2011
+322,Giant,Simple Single,URBAN & FITNESS,2021
+323,Giant,Simple Single,URBAN & FITNESS,2020
+324,Giant,Simple Single,URBAN & FITNESS,2019
+325,Giant,Simple Single,URBAN & FITNESS,2018
+326,Giant,Simple Single,Hybrid,2017
+327,Giant,Simple Single,Cruiser,2016
+328,Giant,Simple Single,Cruiser,2015
+329,Giant,Simple Single,Cruiser,2014
+330,Giant,Simple Single,Cruiser,2013
+331,Giant,Simple Single,Cruiser,2010
+332,Giant,Simple Single,Cruiser,2006
+333,Giant,Simple Single,Cruiser,2005
+334,Giant,Simple Single,Cruiser,2004
+335,Giant,Simple Single,Cruiser,2003
+336,Giant,Cypress DX,Hybrid,2021
+337,Giant,Cypress DX,URBAN & FITNESS,2021
+338,Giant,Cypress DX,URBAN & FITNESS,2020
+339,Giant,Cypress DX,URBAN & FITNESS,2018
+340,Giant,Cypress DX,Hybrid,2017
+341,Giant,Cypress DX,Hybrid,2016
+342,Giant,Cypress DX,Hybrid,2015
+343,Giant,Cypress DX,Hybrid,2014
+344,Giant,Cypress DX,Hybrid,2013
+345,Giant,Cypress DX,Hybrid,2012
+346,Giant,Cypress DX,Hybrid,2011
+347,Giant,Cypress DX,Hybrid,2010
+348,Giant,Cypress DX,Hybrid,2002
+349,Giant,Cypress DX,Hybrid,2001
+350,Giant,Defy Advanced 1,Road,2021
+351,Giant,Defy Advanced 1,Road,2020
+352,Giant,Defy Advanced 1,Road,2019
+353,Giant,Defy Advanced 1,Road,2018
+354,Giant,Defy Advanced 1,Road,2017
+355,Giant,Defy Advanced 1,Road,2016
+356,Giant,Defy Advanced 1,Road,2015
+357,Giant,Defy Advanced 1,Road,2014
+358,Giant,Defy Advanced 1,Road,2013
+359,Giant,Defy Advanced 1,Road,2012
+360,Giant,Defy Advanced 1,Road,2011
+361,Giant,Defy Advanced 1,Road,2010
+362,Giant,Defy Advanced 1,Road,2009
+363,Giant,Sedona,URBAN & FITNESS,2020
+364,Giant,Sedona,URBAN & FITNESS,2019
+365,Giant,Sedona,URBAN & FITNESS,2018
+366,Giant,Sedona,Hybrid,2017
+367,Giant,Sedona,Hybrid,2016
+368,Giant,Sedona,Hybrid,2015
+369,Giant,Sedona,Hybrid,2014
+370,Giant,Sedona,Hybrid,2013
+371,Giant,Sedona,Hybrid,2010
+372,Giant,Sedona,Hybrid,2001
+373,Giant,Sedona,Hybrid,1999
+374,Giant,Sedona,Hybrid,1995
+375,Giant,Reign 2,Mountain,2020
+376,Giant,Reign 2,Mountain,2019
+377,Giant,Reign 2,Mountain,2018
+378,Giant,Reign 2,Mountain,2017
+379,Giant,Reign 2,Mountain,2013
+380,Giant,Reign 2,Mountain,2012
+381,Giant,Reign 2,Mountain,2011
+382,Giant,Reign 2,Mountain,2010
+383,Giant,Reign 2,Mountain,2009
+384,Giant,Reign 2,Mountain,2008
+385,Giant,Reign 2,Mountain,2006
+386,Giant,Reign 2,Mountain,2005
+387,Giant,Cypress,Hybrid,2021
+388,Giant,Cypress,URBAN & FITNESS,2021
+389,Giant,Cypress,URBAN & FITNESS,2020
+390,Giant,Cypress,URBAN & FITNESS,2019
+391,Giant,Cypress,URBAN & FITNESS,2018
+392,Giant,Cypress,Hybrid,2017
+393,Giant,Cypress,Hybrid,2016
+394,Giant,Cypress,Hybrid,2015
+395,Giant,Cypress,Hybrid,2014
+396,Giant,Cypress,Hybrid,2010
+397,Giant,Cypress,Hybrid,2000
+398,Giant,TCR Advanced 2,Road,2021
+399,Giant,TCR Advanced 2,Road,2019
+400,Giant,TCR Advanced 2,Road,2018
+401,Giant,TCR Advanced 2,Road,2017
+402,Giant,TCR Advanced 2,Road,2016
+403,Giant,TCR Advanced 2,Road,2015
+404,Giant,TCR Advanced 2,Road,2012
+405,Giant,TCR Advanced 2,Road,2011
+406,Giant,TCR Advanced 2,Road,2010
+407,Giant,TCR Advanced 2,Road,2009
+408,Giant,TCR Advanced 2,Road,2008
+409,Giant,Defy Advanced 2,Road,2021
+410,Giant,Defy Advanced 2,Road,2020
+411,Giant,Defy Advanced 2,Road,2019
+412,Giant,Defy Advanced 2,Road,2018
+413,Giant,Defy Advanced 2,Road,2017
+414,Giant,Defy Advanced 2,Road,2016
+415,Giant,Defy Advanced 2,Road,2015
+416,Giant,Defy Advanced 2,Road,2012
+417,Giant,Defy Advanced 2,Road,2011
+418,Giant,Defy Advanced 2,Road,2010
+419,Giant,Defy Advanced 2,Road,2009
+420,Giant,Sedona DX,URBAN & FITNESS,2021
+421,Giant,Sedona DX,URBAN & FITNESS,2020
+422,Giant,Sedona DX,Hybrid,2019
+423,Giant,Sedona DX,Hybrid,2017
+424,Giant,Sedona DX,Hybrid,2016
+425,Giant,Sedona DX,Hybrid,2015
+426,Giant,Sedona DX,Hybrid,2014
+427,Giant,Sedona DX,Hybrid,2013
+428,Giant,Sedona DX,Hybrid,2010
+429,Giant,Sedona DX,Hybrid,2004
+430,Giant,Sedona DX,Hybrid,2001
+431,Giant,TCR Advanced SL 2,Road,2020
+432,Giant,TCR Advanced SL 2,Road,2019
+433,Giant,TCR Advanced SL 2,Road,2017
+434,Giant,TCR Advanced SL 2,Road,2016
+435,Giant,TCR Advanced SL 2,Road,2015
+436,Giant,TCR Advanced SL 2,Road,2014
+437,Giant,TCR Advanced SL 2,Road,2013
+438,Giant,TCR Advanced SL 2,Road,2012
+439,Giant,TCR Advanced SL 2,Road,2011
+440,Giant,TCR Advanced SL 2,Road,2010
+441,Giant,TCR Advanced SL 2,Road,2009

@@ -1,0 +1,8 @@
+app/model_weight/
+data/data/
+data/data_arr/
+crawlData/test.py
+crawlData/GoogleImageScrapy/photos/
+crawlData/filter_data_image.py
+crawlData/GoogleImageScrapy/test.py
+crawlData/GoogleImageScrapy/test_2.py
