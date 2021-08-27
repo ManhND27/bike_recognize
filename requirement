@@ -1,0 +1,58 @@
+Project bicycle
+——
+Image recognize:
+1. Crawl image: 
+	+ Image -------- ảnh bicycle
+	+ brand --------- Thương hiệu sản phẩm 
+	+ year ------- năm sản suất của xe 
+	+ model ---------- model của branch . 1 branch sẽ có nhiều model
+	+ type ---------- kiểu xe ví dụ như xe địa hình .....
+	crawl sources: google, ebay,….
+
+type: classification image. mountain, road
+brand: yolo/SSD
+model: VGG8/VGG16
+year: VGG8/VGG16
+-------------------------------------------
+Brand phổ biến:
+Specialized
+Trek
+Cannondale
+Giant
+"""
+Norco
+Scott
+Fuji
+VooDoo
+Jamis
+KHS
+"""
+----------------------------------------------
+model phổ biến của brand: Specialized
+Crossroads Sport
+Langster
+P.3
+Sirrus
+Crosstrail Sport
+Dolce
+Allez Elite
+Demo 8 I
+Demo 8 II
+Rockhopper 29
+-------------------------------------
+Year thì có: 1990->2021 nhé
+------------------------------------
+Đây là các type phổ biến:
+Hybrid
+Cruiser
+Road
+BMX
+E-Bike
+Mountain
+Kids
+
+Lưu dât dưới dạng json dạng data như sau :
+type , brand , {model }
+365 , 7277, 13486
+
+

@@ -1,0 +1,93 @@
+Bike Trek 1.1 Road
+Bike Trek 1.2 Road
+Bike Trek 1.5 Road
+Bike Trek 520 Road
+Bike Trek 820 Mountain
+Bike Trek 8500 Mountain
+Bike Trek 7.3 FX Hybrid
+Bike Trek 7.3 FX WSD Hybrid
+Bike Trek 7.5 FX Hybrid
+Bike Trek 7.5 FX WSD Hybrid
+Bike Trek 7.7 FX Hybrid
+Bike Trek 820 WSD Mountain
+Bike Trek Crockett 5 Disc Cyclocross
+Bike Trek Fuel EX 7 Mountain
+Bike Trek Fuel EX 8 Mountain
+Bike Trek Madone 5.2 Road
+Bike Trek Marlin 5 Mountain
+Bike Trek MT 220 Kids
+Bike Trek Remedy 7 Mountain
+Bike Trek Remedy 8 Mountain
+Bike Trek Remedy 9.8 Mountain
+Bike Trek Skye S Mountain
+Bike Trek Stache 7 Mountain
+Bike Trek Top Fuel 8 Mountain
+Bike Specialized Allez Road
+Bike Specialized Allez Elite Road
+Bike Specialized Ariel Women's Hybrid
+Bike Specialized Crossroads Hybrid
+Bike Specialized Crossroads Elite Hybrid
+Bike Specialized Crossroads Sport Hybrid
+Bike Specialized Crosstrail Hybrid
+Bike Specialized Crosstrail Sport Hybrid
+Bike Specialized Demo 8 I Mountain
+Bike Specialized Demo 8 II Mountain
+Bike Specialized Dolce Road
+Bike Specialized Epic Comp 29er Mountain
+Bike Specialized Expedition Sport Hybrid
+Bike Specialized Langster Track / Fixie / Singlespeed
+Bike Specialized P.3 Mountain
+Bike Specialized Rockhopper 29 Mountain
+Bike Specialized Rockhopper Comp 29 Mountain
+Bike Specialized S-Works Epic Road
+Bike Specialized Sirrus Hybrid
+Bike Specialized Sirrus Elite Hybrid
+Bike Specialized Sirrus Sport Hybrid
+Bike Specialized Stumpjumper Comp 29er Mountain
+Bike Specialized Stumpjumper FSR Comp 29er Mountain
+Bike Specialized Vita Women's Hybrid
+Bike Giant Cypress Hybrid
+Bike Giant Cypress DX Hybrid
+Bike Giant Defy 3 Road
+Bike Giant Defy Advanced 1 Road
+Bike Giant Defy Advanced 2 Road
+Bike Giant Escape 1 Hybrid
+Bike Giant Escape 3 Hybrid
+Bike Giant Expressway 1 Folding
+Bike Giant Expressway 2 Folding
+Bike Giant Reign 1 Mountain
+Bike Giant Reign 2 Mountain
+Bike Giant Reign X1 Mountain
+Bike Giant Sedona Hybrid
+Bike Giant Sedona DX Hybrid
+Bike Giant Simple Single Cruiser
+Bike Giant Simple Single W Cruiser
+Bike Giant Simple Three Cruiser
+Bike Giant STP SS Mountain
+Bike Giant TCR Advanced 1 Road
+Bike Giant TCR Advanced 2 Road
+Bike Giant TCR Advanced Pro 1 Road
+Bike Giant TCR Advanced SL 1 Road
+Bike Giant TCR Advanced SL 2 Road
+Bike Giant Trance 2 Mountain
+Bike Giant Trance 3 Mountain
+Bike Cannondale Adventure 1 Hybrid
+Bike Cannondale Adventure 1 Women's Hybrid
+Bike Cannondale Adventure 2 Hybrid
+Bike Cannondale Adventure 2 Women's Hybrid
+Bike Cannondale Adventure 3 Hybrid
+Bike Cannondale Bad Boy 1 Hybrid
+Bike Cannondale Quick 4 Road
+Bike Cannondale Quick 4 Women's Hybrid
+Bike Cannondale Quick 5 Road
+Bike Cannondale Quick 6 Road
+Bike Cannondale Quick Carbon 1 Road
+Bike Cannondale Quick Carbon 2 Road
+Bike Cannondale Quick CX 1 Hybrid
+Bike Cannondale Quick CX 2 Hybrid
+Bike Cannondale Quick CX 3 Hybrid
+Bike Cannondale Quick CX 4 Hybrid
+Bike Cannondale Road Tandem 2 Road
+Bike Cannondale Trail 5 Mountain
+Bike Cannondale Trail 6 Mountain
+Bike Cannondale Trail 7 Mountain
