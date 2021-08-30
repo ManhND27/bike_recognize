@@ -15,7 +15,7 @@ using selenium
 
 > python3 crawlData/GoogleImageScrapy/craw_image.py
 
-* output when crawled, clean data and save on  ([data/data](https://drive.google.com/drive/folders/1v_zOi-2UD6Yv9PlGbfwrvTHrs4mTVZi5?usp=sharing))
+* output when crawled, clean data and save on  ([data/data](https://drive.google.com/drive/folders/1gAyxFjwnREZwUry1sxm1-elped7Jwjku?usp=sharing))
 
 * label save on ([data/data.csv](https://github.com/ManhND27/bike_recognize/blob/main/data/data.csv))
 ## Convert data 
